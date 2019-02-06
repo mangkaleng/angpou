@@ -4,7 +4,7 @@ $access = "77c38b4be26612712cc38c824930bc2647a3642d"; // access ovo
 $amount = 1; // jumlah tf (bisa rp1)
 $transfer_to = "087879542355"; // nomor ovo tumbal
 
-$max=100; //akan otomatis close apabila sudah max
+$max=10; //akan otomatis close apabila sudah max
 
 $i=0;
 while ($i < $max) {
